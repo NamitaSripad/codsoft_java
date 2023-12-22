@@ -1,4 +1,4 @@
-1.ATMInterface
+#1.ATMInterface
 This Java program simulates a basic ATM interface. Users can check their account balance, deposit money, withdraw money, and exit the program.
 
 Usage
@@ -14,7 +14,7 @@ Manages the ATM operations, including displaying the menu and handling user inpu
 ATMInterface
 Contains the main method to run the ATM interface.
 
-2.Number Guessing Game
+#2.Number Guessing Game
 This Java program implements a simple number guessing game. The user tries to guess a randomly generated number within a specified range.
 
 Usage
@@ -27,7 +27,7 @@ Displays a welcome dialog when the game starts.
 guessTheNumber
 Handles the main logic of the number guessing game.
 
-3.Word Count
+#3.Word Count
 This Java program counts the number of words in a given text or file.
 
 Usage
